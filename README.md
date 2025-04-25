@@ -1,3 +1,6 @@
+# Emanuel Cepeda Caceres
+>estudiante de Itec Rio Cuarto
+
 - 👋 Hi, I’m @Emancc
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
