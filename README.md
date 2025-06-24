@@ -1,8 +1,6 @@
 
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJsMzl0eDdpbTlncGcwZGtqeGY0MHhuaWgxYjY3Nndhajl2MnJucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1r8YvFB47nAsAy36mp/giphy.gif" width="200"/> Soy Emanuel Cepeda Caceres
 
-<img src="EmanuelCepedaCaceres.png" width="1900"/>
-
 estudiante de programacion
 --------------------------
 
