@@ -1,5 +1,5 @@
 
-# <h1 style="text:center">Emanuel Cepeda Cáceres </h1>
+# <h1 style="text-align: center color: #aa87ff;font-size: 50px;font-family: 'Poppins', sans-serif;font-weight: 700; font-style: italic; text-decoration: underline; text-decoration-color: #aa87ff;text-decoration-thickness: 3px;">Emanuel Cepeda Cáceres </h1>
 
 estudiante de programacion
 --------------------------
