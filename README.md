@@ -1,5 +1,5 @@
 
-# <h1>Eman Cepeda </h1>Emanuel Cepeda Caceres
+# <h1 style="text:center">Emanuel Cepeda Cáceres </h1>
 
 estudiante de programacion
 --------------------------
