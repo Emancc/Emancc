@@ -1,5 +1,5 @@
 # <H1>Emanuel Cepeda Cáceres</H1>
-estudiante de programacion
+estudiante de programacion 💻
 --------------------------
 
 comenze a estudiar programacion en la UNRC. Luego en ITEC Rio Cuarto
