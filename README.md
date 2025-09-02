@@ -1,4 +1,4 @@
-# <H1 style="color: green ">Emanuel Cepeda Cáceres</H1>
+# <H1>Emanuel Cepeda Cáceres</H1>
 estudiante de programacion
 --------------------------
 
